@@ -1,2 +1,2 @@
 # distribute-lock
-手写分布式锁
+基于zookeeper手写分布式锁
